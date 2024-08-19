@@ -1,0 +1,6 @@
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Notafinalcomputo1y2+tarea\Notafinalcomputo1y2+tarea\bin\Debug\Notafinalcomputo1y2+tarea.exe.config
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Notafinalcomputo1y2+tarea\Notafinalcomputo1y2+tarea\bin\Debug\Notafinalcomputo1y2+tarea.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Notafinalcomputo1y2+tarea\Notafinalcomputo1y2+tarea\bin\Debug\Notafinalcomputo1y2+tarea.pdb
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Notafinalcomputo1y2+tarea\Notafinalcomputo1y2+tarea\obj\Debug\Notafinalcomputo1y2+tarea.csproj.CoreCompileInputs.cache
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Notafinalcomputo1y2+tarea\Notafinalcomputo1y2+tarea\obj\Debug\Notafinalcomputo1y2+tarea.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Notafinalcomputo1y2+tarea\Notafinalcomputo1y2+tarea\obj\Debug\Notafinalcomputo1y2+tarea.pdb
