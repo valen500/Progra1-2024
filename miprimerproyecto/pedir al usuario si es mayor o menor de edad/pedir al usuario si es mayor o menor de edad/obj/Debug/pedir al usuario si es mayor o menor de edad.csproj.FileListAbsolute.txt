@@ -1,0 +1,6 @@
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\pedir al usuario si es mayor o menor de edad\pedir al usuario si es mayor o menor de edad\bin\Debug\pedir al usuario si es mayor o menor de edad.exe.config
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\pedir al usuario si es mayor o menor de edad\pedir al usuario si es mayor o menor de edad\bin\Debug\pedir al usuario si es mayor o menor de edad.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\pedir al usuario si es mayor o menor de edad\pedir al usuario si es mayor o menor de edad\bin\Debug\pedir al usuario si es mayor o menor de edad.pdb
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\pedir al usuario si es mayor o menor de edad\pedir al usuario si es mayor o menor de edad\obj\Debug\pedir al usuario si es mayor o menor de edad.csproj.CoreCompileInputs.cache
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\pedir al usuario si es mayor o menor de edad\pedir al usuario si es mayor o menor de edad\obj\Debug\pedir al usuario si es mayor o menor de edad.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\pedir al usuario si es mayor o menor de edad\pedir al usuario si es mayor o menor de edad\obj\Debug\pedir al usuario si es mayor o menor de edad.pdb
