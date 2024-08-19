@@ -1,0 +1,7 @@
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\lab2 conversores\lab2 conversores\bin\Debug\lab2 conversores.exe.config
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\lab2 conversores\lab2 conversores\bin\Debug\lab2 conversores.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\lab2 conversores\lab2 conversores\bin\Debug\lab2 conversores.pdb
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\lab2 conversores\lab2 conversores\obj\Debug\lab2 conversores.csproj.AssemblyReference.cache
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\lab2 conversores\lab2 conversores\obj\Debug\lab2 conversores.csproj.CoreCompileInputs.cache
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\lab2 conversores\lab2 conversores\obj\Debug\lab2 conversores.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\lab2 conversores\lab2 conversores\obj\Debug\lab2 conversores.pdb
