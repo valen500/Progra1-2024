@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{976223F7-E8FE-4399-8D0D-AAFEAD9812DA}</ProjectGuid>
+    <ProjectGuid>{2D9B4B58-7518-4642-9F4E-AD8482194B5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Matrices</RootNamespace>
-    <AssemblyName>Matrices</AssemblyName>
+    <RootNamespace>suma_de_dos_numeros_con_el_tipo_sbyte</RootNamespace>
+    <AssemblyName>suma de dos numeros con el tipo sbyte</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
