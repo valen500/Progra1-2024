@@ -1,0 +1,7 @@
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\tarea_orientada_a_objetos\tarea_orientada_a_objetos\bin\Debug\tarea_orientada_a_objetos.exe.config
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\tarea_orientada_a_objetos\tarea_orientada_a_objetos\bin\Debug\tarea_orientada_a_objetos.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\tarea_orientada_a_objetos\tarea_orientada_a_objetos\bin\Debug\tarea_orientada_a_objetos.pdb
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\tarea_orientada_a_objetos\tarea_orientada_a_objetos\obj\Debug\tarea_orientada_a_objetos.csproj.AssemblyReference.cache
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\tarea_orientada_a_objetos\tarea_orientada_a_objetos\obj\Debug\tarea_orientada_a_objetos.csproj.CoreCompileInputs.cache
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\tarea_orientada_a_objetos\tarea_orientada_a_objetos\obj\Debug\tarea_orientada_a_objetos.exe
+C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\tarea_orientada_a_objetos\tarea_orientada_a_objetos\obj\Debug\tarea_orientada_a_objetos.pdb
