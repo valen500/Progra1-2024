@@ -1,7 +1,0 @@
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Media armonica\Media armonica\bin\Debug\Media armonica.exe.config
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Media armonica\Media armonica\bin\Debug\Media armonica.exe
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Media armonica\Media armonica\bin\Debug\Media armonica.pdb
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Media armonica\Media armonica\obj\Debug\Media armonica.csproj.AssemblyReference.cache
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Media armonica\Media armonica\obj\Debug\Media armonica.csproj.CoreCompileInputs.cache
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Media armonica\Media armonica\obj\Debug\Media armonica.exe
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Media armonica\Media armonica\obj\Debug\Media armonica.pdb
