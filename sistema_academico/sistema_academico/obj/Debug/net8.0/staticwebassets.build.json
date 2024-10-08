@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "5hd3SNQGRdydkoCXlXaSy9AOXj8nlMquouHzjayITqY=",
+  "Source": "sistema_academico",
+  "BasePath": "_content/sistema_academico",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "sistema_academico\\wwwroot",
+      "Source": "sistema_academico",
+      "ContentRoot": "C:\\Users\\Valen\\Desktop\\myRepo\\Progra1-2024\\sistema_academico\\sistema_academico\\wwwroot\\",
+      "BasePath": "_content/sistema_academico",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Valen\\Desktop\\myRepo\\Progra1-2024\\sistema_academico\\sistema_academico\\wwwroot\\views\\Alumno.html",
+      "SourceId": "sistema_academico",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Valen\\Desktop\\myRepo\\Progra1-2024\\sistema_academico\\sistema_academico\\wwwroot\\",
+      "BasePath": "_content/sistema_academico",
+      "RelativePath": "views/Alumno.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\views\\Alumno.html"
+    }
+  ]
+}

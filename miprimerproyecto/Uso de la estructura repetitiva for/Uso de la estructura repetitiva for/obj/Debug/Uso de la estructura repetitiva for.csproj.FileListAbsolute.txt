@@ -1,6 +1,0 @@
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\bin\Debug\Uso de la estructura repetitiva for.exe.config
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\bin\Debug\Uso de la estructura repetitiva for.exe
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\bin\Debug\Uso de la estructura repetitiva for.pdb
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\obj\Debug\Uso de la estructura repetitiva for.csproj.CoreCompileInputs.cache
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\obj\Debug\Uso de la estructura repetitiva for.exe
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\obj\Debug\Uso de la estructura repetitiva for.pdb

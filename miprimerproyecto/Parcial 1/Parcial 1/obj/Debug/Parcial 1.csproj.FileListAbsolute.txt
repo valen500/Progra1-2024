@@ -1,7 +1,0 @@
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Parcial 1\Parcial 1\bin\Debug\Parcial 1.exe.config
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Parcial 1\Parcial 1\bin\Debug\Parcial 1.exe
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Parcial 1\Parcial 1\bin\Debug\Parcial 1.pdb
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Parcial 1\Parcial 1\obj\Debug\Parcial 1.csproj.AssemblyReference.cache
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Parcial 1\Parcial 1\obj\Debug\Parcial 1.csproj.CoreCompileInputs.cache
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Parcial 1\Parcial 1\obj\Debug\Parcial 1.exe
-C:\Users\Valen\source\repos\Progra1-2024\miprimerproyecto\Parcial 1\Parcial 1\obj\Debug\Parcial 1.pdb
