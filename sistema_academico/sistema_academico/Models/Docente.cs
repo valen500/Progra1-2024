@@ -17,3 +17,4 @@ namespace sistema_academico.Models
         public byte[] foto { get; set; }
     }
 }
+
